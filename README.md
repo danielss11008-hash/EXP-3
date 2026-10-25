@@ -1,3 +1,5 @@
+<img width="1568" height="656" alt="3mKvA_cleanup" src="https://github.com/user-attachments/assets/74ffb633-aef3-49ac-a02d-32063181d840" />
+<img width="1568" height="656" alt="3mKvA_cleanup" src="https://github.com/user-attachments/assets/652ef080-af6d-486a-8800-a939ae6cfeb0" />
 # EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
 
@@ -41,7 +43,8 @@ switch2.
 
 Direct connection: CIRCUIT DIAGRAM: 
 
-<img width="1927" height="816" alt="Two-Way SPDT Light Circuit Schematic (1)" src="https://github.com/user-attachments/assets/c4c5574b-0d64-48a0-9722-295ab2dc6f0e" />
+<img width="1568" height="656" alt="3mKvA_cleanup" src="https://github.com/user-attachments/assets/a405fc1e-8b41-40a5-be89-4635f231c30b" />
+
 
 
 Tabulation:1
