@@ -41,7 +41,7 @@ switch2.
 
 Direct connection: CIRCUIT DIAGRAM: 
 
-<img width="1939" height="811" alt="image" src="https://github.com/user-attachments/assets/7df4966e-3185-4459-bf08-8723d32911c2" />
+<img width="1927" height="816" alt="Two-Way SPDT Light Circuit Schematic (1)" src="https://github.com/user-attachments/assets/c4c5574b-0d64-48a0-9722-295ab2dc6f0e" />
 
 
 Tabulation:1
