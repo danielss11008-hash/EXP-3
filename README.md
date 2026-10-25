@@ -41,7 +41,7 @@ switch2.
 
 Direct connection: CIRCUIT DIAGRAM: 
 
-<img width="1568" height="656" alt="3mKvA_cleanup" src="https://github.com/user-attachments/assets/a405fc1e-8b41-40a5-be89-4635f231c30b" />
+<img width="1020" height="523" alt="image" src="https://github.com/user-attachments/assets/8ed94a40-ea3a-4c16-a0e2-958615858397" />
 
 
 
