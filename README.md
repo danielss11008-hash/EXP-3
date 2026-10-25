@@ -1,5 +1,3 @@
-<img width="1568" height="656" alt="3mKvA_cleanup" src="https://github.com/user-attachments/assets/74ffb633-aef3-49ac-a02d-32063181d840" />
-<img width="1568" height="656" alt="3mKvA_cleanup" src="https://github.com/user-attachments/assets/652ef080-af6d-486a-8800-a939ae6cfeb0" />
 # EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
 
